@@ -76,7 +76,7 @@ const Dashboard = () => {
   // Handle logout action
   const handleLogout = () => {
     // Implement logout logic here if needed, e.g., clear tokens
-    navigate('/login'); // Redirect to the login page
+    navigate('/'); // Redirect to the login page
   };
 
   return (
